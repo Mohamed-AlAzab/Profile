@@ -1,3 +1,3 @@
 # Social-links-profile
 
-https://mohamed-alazab.github.io/Portfolio-project-1/
+https://mohamed-alazab.github.io/Profile/
